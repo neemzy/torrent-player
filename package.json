@@ -1,0 +1,13 @@
+{
+  "name": "torrent-player",
+  "version": "0.1.0",
+  "description": "Torrent video streaming web app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "neemzy <tom.panier@free.fr>",
+  "dependencies": {
+    "torrent-stream": "^1.0.3"
+  }
+}
